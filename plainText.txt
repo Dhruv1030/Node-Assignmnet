@@ -1,0 +1,4 @@
+JavaScript is a versatile programming language that runs on both the client and server side. It was initially created for building dynamic web pages but has evolved into a full-stack development tool.
+Node.js allows developers to use JavaScript outside of the browser, making it a popular choice for building scalable network applications.
+With its event-driven architecture, Node.js handles multiple operations simultaneously without blocking the execution, which is ideal for real-time services like chat apps or streaming platforms.
+This makes Node.js a cornerstone of modern web development, alongside frameworks like React and Angular.
